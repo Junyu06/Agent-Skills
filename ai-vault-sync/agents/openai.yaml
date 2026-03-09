@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Vault Sync"
+  short_description: "Sync a shared AI project vault"
+  default_prompt: "Use $ai-vault-sync to load a shared AI vault, read the relevant project file first, and synchronize durable project context changes back into the vault."
+
+policy:
+  allow_implicit_invocation: true

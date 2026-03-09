@@ -1,0 +1,4 @@
+interface:
+  display_name: "Summary Context Only"
+  short_description: "Summarize context only without external tools"
+  default_prompt: "Use $summary-context-only to summarize the current context window and produce a new-chat handoff seed."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Repo Flow Demo"
+  short_description: "Build interactive repo flow demos."
+  default_prompt: "Use $repo-flow-demo to inspect this repository and build a bespoke interactive architecture walkthrough with Mermaid diagrams."
+
+policy:
+  allow_implicit_invocation: true
